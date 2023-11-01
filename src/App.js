@@ -27,3 +27,6 @@ function App() {
 
 export default App;
  
+
+//ABOUT ME SECTION
+// seperate experience into EDUCATION and EXPERIENCE pages

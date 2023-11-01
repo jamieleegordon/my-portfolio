@@ -1,9 +1,9 @@
-import Proj2 from "../assets/proj2.jpg";
 import Proj3 from "../assets/proj3.webp";
-import Proj4 from "../assets/proj4.webp";
-import Proj5 from "../assets/proj5.jpg";
-import Proj6 from "../assets/proj6.png";
 import bagelwebsite from "../assets/bagelwebsite.png";
+import javaGame from "../assets/javaGame.png";
+import teamProject from "../assets/teamProject.png";
+import footbalManager from "../assets/footballManager.png";
+import aLevel from '../assets/aLevel.png';
 
 export const ProjectList = [
   {
@@ -13,16 +13,17 @@ export const ProjectList = [
     link: "https://github.com/jamieleegordon/bagel-website",
     webpage: "https://jamieleegordon.github.io/bagel-website/",
     webpageName: "Bagel Website",
+    description: "(Currently not responsive on mobile) this is my first ReactJS project where I put all the fundamentals and basics which I have learnt together to create a food website. I used tools and library such as Router-DOM.",
   },
   {
     name: "Team Project - Air Ticket System",
-    image: Proj6,
+    image: teamProject,
     skills: "Java, NetBeans, UML, SQL",
     link: "https://github.com/jamieleegordon/TeamProjectATS",
   },
   {
     name: "Java Game - Football heads",
-    image: Proj2,
+    image: javaGame,
     skills: "Java, game engines",
     link: "https://github.com/jamieleegordon/JavaGame",
   },
@@ -34,13 +35,13 @@ export const ProjectList = [
   },
   {
     name: "A Level Coursework - Diary/notes App",
-    image: Proj4,
+    image: aLevel,
     skills: "Python",
     link: "https://github.com/jamieleegordon/aLevelCoursework",
   },
   {
     name: "Football Manager Simulation Game",
-    image: Proj5,
+    image: footbalManager,
     skills: "C++",
     link: "https://github.com/jamieleegordon/footballManager",
   },

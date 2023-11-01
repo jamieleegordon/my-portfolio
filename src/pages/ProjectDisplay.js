@@ -18,6 +18,9 @@ function ProjectDisplay() {
         {project.webpageName}
       </a>
     </p>
+    <h3 className='description'>
+      {project.description}
+    </h3>
     <p>
         <b>Skills: {project.skills}</b>
     </p>
