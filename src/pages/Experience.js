@@ -98,7 +98,15 @@ function Experience() {
               London, UK
             </h4>
             <p>
-              The role:
+              The role and activities: <br/>
+              - Monitoring and recording automation regression test results. <br />
+              - Taking on tasks within Azure Logic Apps such as tracing errors. <br />
+              - API Documentation - collecting data such as endpoints, parameters and sample requests and responses. <br />
+              - Going through the back-end to collect information to be documented for the team. <br />
+              - Workflow documentation - creating documentation on the interfaces and workflows used between NBCUniversal internal systems. <br />
+              - Daily scrum meetings. <br />
+              - Weekly presentations at beginning of internship regarding different areas of the business such as ad sales, playout & distribution and programming & aquisitions etc. <br />
+              - Font-end-development - learning the fundamentals of web development including JavaScript, CSS and HTML and using the ReactJS library. <br />
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
