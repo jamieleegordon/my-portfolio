@@ -12,6 +12,7 @@
     margin-top: 50px;
     color: #f0f0f0;
     font-size: 50px;
+    text-align: center;
   }
   .project img {
     width: 700px;
@@ -21,6 +22,7 @@
   .project p {
     font-size: 40px;
     color: #f0f0f0;
+    text-align: center;
   }
   
   .project svg {
@@ -36,13 +38,15 @@
   .description {
     font-size: 15px;
     color: white;
+    text-align: center;
   }
   
   @media only screen and (max-width: 500px) {
     .project h1 {
       margin-top: 50px;
       color: #f0f0f0;
-      font-size: 35px;
+      font-size: 25px;
+      text-align: center;
     }
     .project img {
       width: 300px;
@@ -52,6 +56,7 @@
     .project p {
       font-size: 20px;
       color: #f0f0f0;
+      text-align: center;
     }
     
     .project svg {
@@ -62,14 +67,13 @@
     .pressBelow {
       font-size: 20px;
       color: #f0f0f0;
-      margin-left: 30px;
+      text-align: center;
     }
 
     .description {
       font-size: 15px;
       color: white;
-      margin-left: 40px;
-      margin-right: 40px;
+      text-align: center;
     }
   }
 
