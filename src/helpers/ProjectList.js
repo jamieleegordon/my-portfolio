@@ -4,8 +4,18 @@ import teamProject from "../assets/teamProject.png";
 import footbalManager from "../assets/footballManager.png";
 import aLevel from '../assets/aLevel.png';
 import grades from '../assets/grades.png';
+import music from '../assets/musicApp.png';
 
 export const ProjectList = [
+  {
+    name: "Album Review Hub",
+    image: music,
+    skills: "ReactJS,JavaScript,HTML,CSS,APIs",
+    link: "https://github.com/jamieleegordon/music-review",
+    webpage: "https://jamieleegordon.github.io/music-review/",
+    webpageName: "Album Review Hub",
+    description: "A website where you can leave reviews for your favorite albums, developed in React. I have implemented Spotify's API to fetch the data for the albums and artists.",
+  },
   {
     name: "Bagel Website",
     image: bagelwebsite,
